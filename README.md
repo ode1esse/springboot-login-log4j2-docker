@@ -1,4 +1,4 @@
-# springboot-login-log4j2
+# springboot-login-log4j2-docker
 
 ## 启动靶场的命令：
 
